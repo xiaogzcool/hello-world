@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Hello World! 你好世界");
         System.out.println("hahh");
         System.out.println("-----------YouMeek.com-----------值=" + args+"," + "当前类=HelloWorld.main()");
+        System.out.println("-----------YouMeek.com-----------值=" + "哈哈哈"+"," + "当前类=HelloWorld.main()");
     }
 }
